@@ -12,4 +12,4 @@
 - CoinGecko API
   
 ## Feedback
-Any questions or suggestions? Notice any bugs or glitches? Feel free to send me an [email](sainikumar368@gmail.com)
+Any questions or suggestions? Notice any bugs or glitches? Feel free to send me an <a href="mailto:sainikumar368@gmail.com">email</a>.
