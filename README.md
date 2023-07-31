@@ -3,4 +3,5 @@
 - **Provides invaluable insights and actionable information to empower crypto traders in making informed decisions.**
 
 ## Demo
-![image](https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/7efc356d-5d94-40d5-a784-9cac35ec48e1)
+![image](https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/a9206b3a-f3c2-4bf8-a342-fe30fc3d74e7)
+
