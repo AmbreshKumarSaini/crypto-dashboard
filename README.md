@@ -10,5 +10,6 @@
 - Apexchart.js
 - Bootstrap
 - CoinGecko API
+  
 ## Feedback
 Any questions or suggestions? Notice any bugs or glitches? Feel free to send me an [email](sainikumar368@gmail.com)
