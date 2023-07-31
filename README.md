@@ -5,3 +5,8 @@
 ## Demo
 ![image](https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/a9206b3a-f3c2-4bf8-a342-fe30fc3d74e7)
 
+## Built Using 
+- React
+- Apexchart.js
+- Bootstrap
+- CoinGecko API
