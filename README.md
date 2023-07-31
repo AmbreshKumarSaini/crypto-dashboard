@@ -4,7 +4,21 @@
 
 ## Demo
 ![image](https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/a9206b3a-f3c2-4bf8-a342-fe30fc3d74e7)
-
+<table>
+  <tbody>
+    <tr>
+    <td>
+      <img src="https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/e32f16b9-c0c9-4e25-859d-11216ec1ea9e" alt="image"/>
+    </td>
+      <td>
+      <img src="https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/bfd452c7-2c47-44fc-881d-b496ae836c15"/>
+     </td>
+      <td>
+      <img src="https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/6d6cde62-fcad-45e8-9136-bfafb4970a06"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ## Built Using 
 - React
 - Apexchart.js
