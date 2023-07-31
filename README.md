@@ -19,6 +19,7 @@
     </tr>
   </tbody>
 </table>
+
 ## Built Using 
 - React
 - Apexchart.js
