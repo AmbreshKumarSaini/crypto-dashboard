@@ -14,7 +14,7 @@
       <img src="https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/bfd452c7-2c47-44fc-881d-b496ae836c15"/>
      </td>
       <td>
-      <img src="https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/6d6cde62-fcad-45e8-9136-bfafb4970a06"/>
+      <img src="https://github.com/AmbreshKumarSaini/crypto-dashboard/assets/92514207/8f027347-be24-478e-80fc-7a02825d77a8" width=1300px height=150px/>
       </td>
     </tr>
   </tbody>
